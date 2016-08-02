@@ -1,0 +1,7 @@
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment.Business\bin\Debug\OneSourceAssessment.Business.dll
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment.Business\bin\Debug\OneSourceAssessment.Business.pdb
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment.Business\bin\Debug\OneSourceAssessment.Contract.dll
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment.Business\bin\Debug\OneSourceAssessment.Contract.pdb
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment.Business\obj\Debug\OneSourceAssessment.Business.csprojResolveAssemblyReference.cache
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment.Business\obj\Debug\OneSourceAssessment.Business.dll
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment.Business\obj\Debug\OneSourceAssessment.Business.pdb

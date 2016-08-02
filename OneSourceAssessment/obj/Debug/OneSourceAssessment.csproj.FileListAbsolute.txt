@@ -1,0 +1,20 @@
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\bin\Debug\OneSourceAssessment.exe.config
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\bin\Debug\OneSourceAssessment.exe
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\bin\Debug\OneSourceAssessment.pdb
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\bin\Debug\OneSourceAssessment.Business.dll
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\bin\Debug\OneSourceAssessment.Contract.dll
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\bin\Debug\OneSourceAssessment.Business.pdb
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\bin\Debug\OneSourceAssessment.Contract.pdb
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\obj\Debug\OneSourceAssessment.csprojResolveAssemblyReference.cache
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\obj\Debug\OneSourceAssessment.exe
+c:\users\saipavanviswanath\documents\visual studio 2015\Projects\OneSourceAssessment\OneSourceAssessment\obj\Debug\OneSourceAssessment.pdb
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\bin\Debug\OneSourceAssessment.exe.config
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\obj\Debug\OneSourceAssessment.exe
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\obj\Debug\OneSourceAssessment.pdb
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\bin\Debug\OneSourceAssessment.exe
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\bin\Debug\OneSourceAssessment.pdb
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\bin\Debug\OneSourceAssessment.Business.dll
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\bin\Debug\OneSourceAssessment.Contract.dll
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\bin\Debug\OneSourceAssessment.Business.pdb
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\bin\Debug\OneSourceAssessment.Contract.pdb
+C:\Users\ILTNJT420\Desktop\New folder\OneSourceAssessment\obj\Debug\OneSourceAssessment.csprojResolveAssemblyReference.cache

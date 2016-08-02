@@ -1,0 +1,10 @@
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/bin/Debug/OneSourceAssessment.exe.config
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/bin/Debug/OneSourceAssessment.exe.mdb
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/bin/Debug/OneSourceAssessment.exe
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/obj/Debug/OneSourceAssessment.exe
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/obj/Debug/OneSourceAssessment.exe.mdb
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/bin/Debug/OneSourceAssessment.Business.dll
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/bin/Debug/OneSourceAssessment.Business.dll.mdb
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/bin/Debug/OneSourceAssessment.Contract.dll
+/Users/sid/Downloads/OneSourceAssessment/OneSourceAssessment/bin/Debug/OneSourceAssessment.Contract.dll.mdb
