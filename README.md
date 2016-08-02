@@ -1,15 +1,5 @@
 # sales-tax-application
 
-Programming Assessment
-
-
-Guidelines
-The goal of this assessment is to validate your ability to create a high quality, production ready application that meets the stated requirements. Please consider programming best practices as you design your solution, including good Object Oriented principles and proper coding grammar.  You will be graded not only on whether your application produces the correct output, but also to what degree your solution is extensible and maintainable. 
-
-
-It is expected that the completed project can be copied to a development machine with Visual Studio installed and compiled/run without modification.   If additional steps are required to compile and run the solution, instructions must be provided.  A console application is sufficient.  No user input should be required other than (optionally) a button to produce the transaction output.  
-
-
 Problem Statement
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food, and medical products that are exempt. Import duty is an additional sales tax applicable on all imported goods at a rate of 5%, with no exemptions. When I purchase items I receive a receipt which lists the name of all the items and their price (including tax), finishing with the total cost of the items, and the total amounts of sales taxes paid.  The rounding rules for sales tax are that for a tax rate of n%, a shelf price of p contains (np/100 rounded up to the nearest 0.05) amount of sales tax. Write an application that prints out the receipt details for these shopping baskets.
 
@@ -27,11 +17,6 @@ Shopping Basket 3:
 1 packet of headache pills at 9.75
 1 box of imported chocolates at 11.25
  
-
-
-
-
-
 
 Output 
 Output 1:
